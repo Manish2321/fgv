@@ -1,0 +1,48 @@
+java.lang.Exception: scala.build.errors.InputsException: Reverse is not a scala sub-command and it is not a valid path to an input file or directory.
+Try viewing the relevant help to see the list of available sub-commands and options.
+  [1mscala --help[0m
+Hello: input file not found
+Try viewing the relevant help to see the list of available sub-commands and options.
+  [1mscala --help[0m
+World: input file not found
+Try viewing the relevant help to see the list of available sub-commands and options.
+  [1mscala --help[0m
+  scala.cli.internal.CliLogger.exit(CliLogger.scala:144)
+  scala.cli.commands.util.CommandHelpers$EitherBuildExceptionOps.orExit(CommandHelpers.scala:18)
+  scala.cli.commands.run.Run$.runCommand(Run.scala:142)
+  scala.cli.commands.default.Default.runCommand(Default.scala:61)
+  scala.cli.commands.default.Default.runCommand(Default.scala:40)
+  scala.cli.commands.ScalaCommand.run(ScalaCommand.scala:388)
+  scala.cli.commands.ScalaCommand.run(ScalaCommand.scala:369)
+  caseapp.core.app.CaseApp.main(CaseApp.scala:157)
+  scala.cli.commands.ScalaCommand.main(ScalaCommand.scala:354)
+  caseapp.core.app.CommandsEntryPoint.main(CommandsEntryPoint.scala:169)
+  scala.cli.ScalaCliCommands.main(ScalaCliCommands.scala:125)
+  scala.cli.ScalaCli$.main0(ScalaCli.scala:295)
+  scala.cli.ScalaCli$.main(ScalaCli.scala:119)
+  scala.cli.ScalaCli.main(ScalaCli.scala)
+scala.build.errors.InputsException: Reverse is not a scala sub-command and it is not a valid path to an input file or directory.
+Try viewing the relevant help to see the list of available sub-commands and options.
+  [1mscala --help[0m
+Hello: input file not found
+Try viewing the relevant help to see the list of available sub-commands and options.
+  [1mscala --help[0m
+World: input file not found
+Try viewing the relevant help to see the list of available sub-commands and options.
+  [1mscala --help[0m
+  scala.build.input.Inputs$.forNonEmptyArgs(Inputs.scala:419)
+  scala.build.input.Inputs$.apply(Inputs.scala:460)
+  scala.cli.commands.shared.SharedOptions$.inputs(SharedOptions.scala:704)
+  scala.cli.commands.shared.SharedOptions.inputs(SharedOptions.scala:623)
+  scala.cli.commands.run.Run$.runCommand(Run.scala:141)
+  scala.cli.commands.default.Default.runCommand(Default.scala:61)
+  scala.cli.commands.default.Default.runCommand(Default.scala:40)
+  scala.cli.commands.ScalaCommand.run(ScalaCommand.scala:388)
+  scala.cli.commands.ScalaCommand.run(ScalaCommand.scala:369)
+  caseapp.core.app.CaseApp.main(CaseApp.scala:157)
+  scala.cli.commands.ScalaCommand.main(ScalaCommand.scala:354)
+  caseapp.core.app.CommandsEntryPoint.main(CommandsEntryPoint.scala:169)
+  scala.cli.ScalaCliCommands.main(ScalaCliCommands.scala:125)
+  scala.cli.ScalaCli$.main0(ScalaCli.scala:295)
+  scala.cli.ScalaCli$.main(ScalaCli.scala:119)
+  scala.cli.ScalaCli.main(ScalaCli.scala)

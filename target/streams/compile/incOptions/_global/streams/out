@@ -1,0 +1,42 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/manishkumartyagi/Downloads/untitled/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/manishkumartyagi/Downloads/untitled/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnagramGrouper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jdbctest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadCitiesCSV$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkArrayExample$$typecreator12$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ques1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jdbctest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkArrayExample$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jdbctest$City.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkArrayExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Reverse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnagramGrouper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IndiaExportAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jdbctest$City$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DbConnect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jdbctest$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnagramGrouper$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadCitiesCSV.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadCitiesCSV$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jdbctest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DbConnect$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	City$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkArrayExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	City.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DbConnect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Reverse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jdbctest$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkArrayExample$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReversePrinter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IndiaExportAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ques1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/manishkumartyagi/Downloads/untitled/target/scala-2.13/classes.bak[0m
